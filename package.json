@@ -1,0 +1,23 @@
+{
+  "name": "accounts-api-client",
+  "version": "1.0.0",
+  "description": "accounts nodejs client",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chandhravadanan/accounts-api-client.git"
+  },
+  "keywords": [],
+  "author": "chandhravadanan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chandhravadanan/accounts-api-client/issues"
+  },
+  "homepage": "https://github.com/chandhravadanan/accounts-api-client#readme",
+  "dependencies": {
+    "node-fetch": "^2.6.0"
+  }
+}
